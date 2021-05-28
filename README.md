@@ -1,2 +1,1 @@
-# home
-My personal portfolio website repository
+# My personal portfolio website repository
